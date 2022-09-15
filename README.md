@@ -5,10 +5,11 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
   
 ## Team 
 <_each team member clones repo and then edits/replace with their name below_>
-- MEMBER01
-- MEMBER02
-- MEMBER03
-- MEMBER04
+- Syed Rahman
+- Joe O'Neil
+- Karl Makuvaro
+- Yuliana Pereginets
+- Raynard Miot
 
 
 ## Prerequisites  <_add anything else that applies_>
